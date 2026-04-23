@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../config/app_config.dart';
 import '../custom_widgets/custom_textfield.dart';
-import '../models/user_profile.dart';
+
 import '../services/auth_service.dart';
 import 'rooms_screen.dart';
 
